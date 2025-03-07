@@ -1,3 +1,5 @@
+-- Data Analysis Project 
+
 create database employ_data;
 use employ_data;
 -- 1	Show all columns and rows in the table.
